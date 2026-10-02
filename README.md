@@ -1,1 +1,3 @@
 # listDobEnl
+En este trabajo hice una lista doblemente enlazada en Java. Primero creé la clase Node y luego la clase DNode, que hereda de Node y le agregué un puntero al nodo anterior para que la lista se pueda recorrer en ambos sentidos. También hice la interfaz IList con los métodos básicos y la clase DLinkedList con toda la lógica de la lista.
+Después le agregué tres métodos: uno para eliminar los elementos repetidos, otro para rotar los elementos una posición a la derecha, y otro para concatenar dos listas en una sola. Finalmente, en la clase Main probé los tres métodos con listas de ejemplo para comprobar que funcionaran bien. Con esto practiqué el uso de nodos, punteros y programación orientada a objetos en Java.
